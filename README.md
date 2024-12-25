@@ -60,7 +60,7 @@ The roadmap is arranged on a project board to give a sense for how far out each 
 GitHub Enterprise Server has major releases on a quarterly basis, and minor releases on a monthly basis. Once we know what version we are delivering a feature, we will update the issue to indicate that information.
 
 ## Feature Areas
-
+k
 The following is a list of our current product areas:
 
 - **code:** Code experiences (Repositories, Pull Requests, Gists)
